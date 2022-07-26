@@ -1,0 +1,28 @@
+.welcome-presentacion {
+  margin: 40px auto 73px auto;
+  padding: 0 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 1000px;
+}
+.welcome-presentacion titulo-el {
+  margin-right: 35px;
+}
+
+.welcome-form {
+  padding: 0 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+
+  max-width: 500px;
+  margin: 0 auto 133px auto;
+}
+.welcome-form__form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+/*# sourceMappingURL=index.29daec14.css.map */

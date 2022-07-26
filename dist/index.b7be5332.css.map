@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA","sources":["src/paginas/thank-you/thank.css"],"sourcesContent":[".thanks {\r\n  padding: 0px 30px;\r\n  margin: 40px auto 300px auto;\r\n  display: grid;\r\n  gap: 30px;\r\n  max-width: 500px;\r\n}\r\n"],"names":[],"version":3,"file":"index.b7be5332.css.map","sourceRoot":"/__parcel_source_root/"}
