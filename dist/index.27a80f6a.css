@@ -1,0 +1,13 @@
+.step1-form {
+  display: grid;
+  gap: 50px;
+  max-width: 500px;
+  margin: 40px auto 135px auto;
+  padding: 0 30px;
+}
+.step-titulo {
+  text-align: center;
+  margin-top: 40px;
+}
+
+/*# sourceMappingURL=index.27a80f6a.css.map */
